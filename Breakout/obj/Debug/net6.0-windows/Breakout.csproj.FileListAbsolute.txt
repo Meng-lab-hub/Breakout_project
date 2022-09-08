@@ -1,0 +1,17 @@
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\bin\Debug\net6.0-windows\Breakout.exe
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\bin\Debug\net6.0-windows\Breakout.deps.json
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\bin\Debug\net6.0-windows\Breakout.runtimeconfig.json
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\bin\Debug\net6.0-windows\Breakout.dll
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\bin\Debug\net6.0-windows\Breakout.pdb
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\Breakout.csproj.AssemblyReference.cache
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\Breakout.Form1.resources
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\Breakout.csproj.GenerateResource.cache
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\Breakout.GeneratedMSBuildEditorConfig.editorconfig
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\Breakout.AssemblyInfoInputs.cache
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\Breakout.AssemblyInfo.cs
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\Breakout.csproj.CoreCompileInputs.cache
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\Breakout.dll
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\refint\Breakout.dll
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\Breakout.pdb
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\Breakout.genruntimeconfig.cache
+D:\BME\semester6\embeddedSystem&ClientApplication\Project\Breakout\obj\Debug\net6.0-windows\ref\Breakout.dll
